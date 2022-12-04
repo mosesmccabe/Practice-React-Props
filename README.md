@@ -1,1 +1,3 @@
-# mosesmccabe-React-Props-Practice-Project
+# ReactJS Review React Props
+
+This project is a practice of react props and the use of map datatype.
